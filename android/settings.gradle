@@ -21,7 +21,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
   }
 }
 
-rootProject.name = 'DeepSeek'
+rootProject.name = 'DeepSeek 用量追踪'
 
 dependencyResolutionManagement {
   versionCatalogs {
